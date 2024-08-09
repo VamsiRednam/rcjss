@@ -1,4 +1,4 @@
-<style>* {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -213,5 +213,3 @@ header .head-2 .navbar-nav .nav-link:hover {
   background-color: white;
   color: black;
 }
-
-</style>
