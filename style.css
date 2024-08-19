@@ -194,6 +194,9 @@ header .row {
   .head-1 {
     display: none;
   }
+  .search-wrapper{
+    display: none;
+  }
 
   .carousel-caption {
 
